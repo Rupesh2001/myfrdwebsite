@@ -1,0 +1,21 @@
+.kcmit-site-feature{
+	background-image:url(next.jpg);
+    background-color: #1F2833;
+    text-align: center;
+}
+.kcmit-site-feature img{
+    max-width: 10%;
+}
+.kcmit-site-feature h1{
+    margin:0;
+	color:red;
+	text-align: center;
+	text-shadow: black 5px 5px 5px;
+}
+.kcmit-site-feature h2{
+    margin: 0;
+	color:black;
+	text-align: right;
+	text-shadow: white 5px 5px 5px;
+
+}

@@ -1,0 +1,35 @@
+.kcmit-menu:after,
+.kcmit-menu:before{
+    content: '';
+    clear: both;
+    display: block;
+}
+.kcmit-menu{
+    list-style: none;
+    background-color:teal;
+    padding: 15px;
+    margin: 0px;
+    border-radius: 0px 0px 15px 15px;
+}
+.kcmit-menu li{
+    display: inline-block;
+    color: white;
+    text-align: center;
+}
+ .kcmit-menu a{
+    display: inline-block;
+    background-color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 15px;
+    color:teal;
+}
+.kcmit-menu li a:hover{
+    color:teal;
+    background-color:orange;
+
+}
+
+
+
+        

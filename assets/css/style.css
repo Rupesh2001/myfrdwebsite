@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+.section-border{
+	border-bottom-width: 2px;
+	border-bottom-color: black;
+	border-bottom-style: solid;
+}
+.text-center{
+    text-align: center;
+    padding: 20px;
+}

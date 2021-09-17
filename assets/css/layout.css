@@ -1,0 +1,17 @@
+.section-title{
+	color: teal;
+}
+.event-section .section-title{
+	margin: 0;
+}
+
+.program-section .section-title{
+	margin: 0;
+}
+
+.facilities-section .section-title{
+	margin: 0;
+}
+.gallery-section h2{
+	text-align: center;
+}

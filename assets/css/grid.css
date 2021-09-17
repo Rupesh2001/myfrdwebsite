@@ -1,0 +1,18 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.col-4,
+.col-6{
+   padding-left: 7.5px;
+padding-right: 7.5px; 
+}
+.col-4{
+    flex: 0 0 33.33%;
+    max-width: 33.33%;
+    
+}
+.col-6{
+    flex: 0 0 50%;
+    max-width: 50%;
+}
